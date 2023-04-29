@@ -1,6 +1,6 @@
 # Click Event Kitty
 
-This simple site includes a button that, when clicked shows a cute kitten image and changes the button text. And when clicked again removes the image and changes that button text and color. There are also suggestions for updates commented in the JS file. 
+Click a button to show a cute kitten image! Clicking again removes the image and changes the button text and color. Includes suggestions for updates commented in the JS file. 
 
 ## Toggle image and button text and color:
 * querySelector
